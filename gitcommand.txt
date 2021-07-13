@@ -1,0 +1,2 @@
+Just rewatching the Git module to help me with the Authentication module later on. 
+Also just to get reacquainted with Version Control, which I have not been doing, but looking back seems like a good thing to do.
